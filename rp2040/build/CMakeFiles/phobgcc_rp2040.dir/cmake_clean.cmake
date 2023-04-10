@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj"
-  "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj.d"
+  "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj"
+  "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj.d"
   "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
   "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj.d"
   "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"

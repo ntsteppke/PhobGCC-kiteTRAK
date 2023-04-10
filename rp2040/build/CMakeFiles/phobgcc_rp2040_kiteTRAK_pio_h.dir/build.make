@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040
+CMAKE_SOURCE_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build
+CMAKE_BINARY_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build
 
 # Utility rule file for phobgcc_rp2040_kiteTRAK_pio_h.
 
@@ -68,9 +68,9 @@ include CMakeFiles/phobgcc_rp2040_kiteTRAK_pio_h.dir/progress.make
 
 CMakeFiles/phobgcc_rp2040_kiteTRAK_pio_h: kiteTRAK.pio.h
 
-kiteTRAK.pio.h: /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.pio
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating kiteTRAK.pio.h"
-	pioasm/pioasm -o c-sdk /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../extras/kiteTRAK/kiteTRAK.pio /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/kiteTRAK.pio.h
+kiteTRAK.pio.h: /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.pio
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating kiteTRAK.pio.h"
+	pioasm/pioasm -o c-sdk /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../extras/kiteTRAK/kiteTRAK.pio /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/kiteTRAK.pio.h
 
 phobgcc_rp2040_kiteTRAK_pio_h: CMakeFiles/phobgcc_rp2040_kiteTRAK_pio_h
 phobgcc_rp2040_kiteTRAK_pio_h: kiteTRAK.pio.h
@@ -86,6 +86,6 @@ CMakeFiles/phobgcc_rp2040_kiteTRAK_pio_h.dir/clean:
 .PHONY : CMakeFiles/phobgcc_rp2040_kiteTRAK_pio_h.dir/clean
 
 CMakeFiles/phobgcc_rp2040_kiteTRAK_pio_h.dir/depend:
-	cd /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles/phobgcc_rp2040_kiteTRAK_pio_h.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles/phobgcc_rp2040_kiteTRAK_pio_h.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/phobgcc_rp2040_kiteTRAK_pio_h.dir/depend
 

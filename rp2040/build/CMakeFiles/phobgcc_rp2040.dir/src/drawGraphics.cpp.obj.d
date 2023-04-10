@@ -1,5 +1,5 @@
 CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj: \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawGraphics.cpp \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawGraphics.cpp \
  /usr/include/newlib/c++/10.3.1/charconv \
  /usr/include/newlib/c++/10.3.1/type_traits \
  /usr/include/newlib/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/c++config.h \
@@ -104,7 +104,7 @@ CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj: \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico/assert.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
  /usr/include/newlib/c++/10.3.1/cassert /usr/include/newlib/assert.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/cvideo.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/cvideo_variables.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/images/font.h
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/cvideo.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/cvideo_variables.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/images/font.h

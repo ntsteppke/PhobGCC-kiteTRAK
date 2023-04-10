@@ -15,9 +15,9 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/include/pico/lock_core.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico/types.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/version.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/version.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico/config.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/config_autogen.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/config_autogen.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/boards/include/boards/pico.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \

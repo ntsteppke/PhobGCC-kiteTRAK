@@ -1,5 +1,5 @@
 CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj: \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/graph.cpp \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/graph.cpp \
  /usr/include/newlib/c++/10.3.1/algorithm \
  /usr/include/newlib/c++/10.3.1/utility \
  /usr/include/newlib/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/c++config.h \
@@ -51,6 +51,6 @@ CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj: \
  /usr/include/newlib/c++/10.3.1/bits/nested_exception.h \
  /usr/include/newlib/c++/10.3.1/bits/uniform_int_dist.h \
  /usr/include/newlib/c++/10.3.1/limits \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/cvideo.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/cvideo.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h

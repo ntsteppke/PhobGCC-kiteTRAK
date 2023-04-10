@@ -1,5 +1,5 @@
 CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj: \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/cvideo.cpp \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/cvideo.cpp \
  /usr/include/newlib/c++/10.3.1/stdlib.h \
  /usr/include/newlib/c++/10.3.1/cstdlib \
  /usr/include/newlib/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/c++config.h \
@@ -102,9 +102,9 @@ CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj: \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico/assert.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
  /usr/include/newlib/c++/10.3.1/cassert /usr/include/newlib/assert.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/version.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/version.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico/config.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/config_autogen.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/config_autogen.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/boards/include/boards/pico.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
@@ -149,9 +149,9 @@ CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj: \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/include/hardware/dma.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/dma.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dma.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/cvideo.pio.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/cvideo.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/cvideo_variables.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/images/cuteGhost.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/images/quadrants.h
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/cvideo.pio.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/cvideo.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/cvideo_variables.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/images/cuteGhost.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/images/quadrants.h

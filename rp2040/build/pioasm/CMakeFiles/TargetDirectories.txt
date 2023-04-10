@@ -1,3 +1,3 @@
-/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/pioasm/CMakeFiles/pioasm.dir
-/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/pioasm/CMakeFiles/edit_cache.dir
-/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/pioasm/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/pioasm/CMakeFiles/pioasm.dir
+/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/pioasm/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/pioasm/CMakeFiles/rebuild_cache.dir

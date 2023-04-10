@@ -73,14 +73,27 @@ void second_core() {
 		int seconds = (millis() / 1000) % 60;
 		int minutes = (millis() / (1000*60)) % 60;
 		int hours = (millis() / (1000*60*60)) % 24;
-		if ((seconds % 2) == 0) {
-			kiteTRAK::TM1637_set_colon(true);
-		}
-		if ((seconds % 2) != 0) {
+
+		if ((millis() / 100) % 5 == 0) {
 			kiteTRAK::TM1637_set_colon(false);
 		}
+		else if ((millis() / 100) % 10 == 0) {
+			kiteTRAK::TM1637_set_colon(true);
+		}
 
-		kiteTRAK::TM1637_display_both(hours, minutes, true);
+		if (hours >= 1) {
+			kiteTRAK::TM1637_display_both(hours, minutes, true);
+		}
+		else {
+			kiteTRAK::TM1637_display_both(minutes, seconds, true);
+		}
+		
+		/*
+		int num_actions = 0;
+		if (_btn.A = 1) {
+			num_actions++;
+		}
+		*/
 		//
 		
 			//Set up persistent storage for calibration

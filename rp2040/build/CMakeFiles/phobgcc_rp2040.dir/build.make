@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040
+CMAKE_SOURCE_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build
+CMAKE_BINARY_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/phobgcc_rp2040.dir/depend.make
@@ -72,147 +72,147 @@ include CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj: ../src/cvideo.cpp
 CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/cvideo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/cvideo.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/cvideo.cpp > CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.i
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/cvideo.cpp > CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.i
 
 CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/cvideo.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.s
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/cvideo.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/cvideo.cpp.s
 
 CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj: ../src/drawGraphics.cpp
 CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawGraphics.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawGraphics.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawGraphics.cpp > CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.i
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawGraphics.cpp > CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.i
 
 CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawGraphics.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.s
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawGraphics.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/drawGraphics.cpp.s
 
 CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj: ../src/drawImage.cpp
 CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawImage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawImage.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawImage.cpp > CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.i
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawImage.cpp > CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.i
 
 CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawImage.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.s
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawImage.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/drawImage.cpp.s
 
 CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj: ../src/drawMenu.cpp
 CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawMenu.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawMenu.cpp > CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.i
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawMenu.cpp > CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.i
 
 CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/drawMenu.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.s
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/drawMenu.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/drawMenu.cpp.s
 
 CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj: ../src/graph.cpp
 CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/graph.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/graph.cpp > CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.i
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/graph.cpp > CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.i
 
 CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/graph.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.s
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/graph.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/graph.cpp.s
 
 CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj: ../src/joybus.cpp
 CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/joybus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/joybus.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/joybus.cpp > CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.i
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/joybus.cpp > CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.i
 
 CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/joybus.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.s
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/joybus.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.s
 
 CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj: ../src/main.cpp
 CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/main.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/main.cpp > CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.i
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/main.cpp > CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.i
 
 CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/main.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.s
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/main.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.s
 
 CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj: ../src/navigateMenu.cpp
 CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/navigateMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/navigateMenu.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/navigateMenu.cpp > CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.i
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/navigateMenu.cpp > CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.i
 
 CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/navigateMenu.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.s
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/navigateMenu.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.s
 
 CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj: ../src/storage.cpp
 CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/storage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/storage.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/storage.cpp > CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.i
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/storage.cpp > CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.i
 
 CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/storage.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.s
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/storage.cpp -o CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.s
 
-CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
-CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj: /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp
-CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp
+CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
+CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj: /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp
+CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp
 
-CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp > CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i
+CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp > CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i
 
-CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s"
-	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s
+CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s"
+	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i: cmake_force
@@ -226,7 +226,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i: cmake_force
@@ -240,7 +240,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.i: cmake_force
@@ -254,7 +254,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_claim/claim.c.i: cmake_force
@@ -268,7 +268,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_sync/sync.c.i: cmake_force
@@ -282,7 +282,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq.c.i: cmake_force
@@ -295,7 +295,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.i: cmake_force
@@ -309,7 +309,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/sem.c.i: cmake_force
@@ -323,7 +323,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/lock_core.c.i: cmake_force
@@ -337,7 +337,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/mutex.c.i: cmake_force
@@ -351,7 +351,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_sync/critical_section.c.i: cmake_force
@@ -365,7 +365,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/time.c.i: cmake_force
@@ -379,7 +379,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_time/timeout_helper.c.i: cmake_force
@@ -393,7 +393,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_timer/timer.c.i: cmake_force
@@ -407,7 +407,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/datetime.c.i: cmake_force
@@ -421,7 +421,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/pheap.c.i: cmake_force
@@ -435,7 +435,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_util/queue.c.i: cmake_force
@@ -449,7 +449,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_uart/uart.c.i: cmake_force
@@ -463,7 +463,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i: cmake_force
@@ -477,7 +477,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pll/pll.c.i: cmake_force
@@ -491,7 +491,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i: cmake_force
@@ -505,7 +505,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i: cmake_force
@@ -519,7 +519,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i: cmake_force
@@ -532,7 +532,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_divider/divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_divider/divider.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_divider/divider.S.i: cmake_force
@@ -546,7 +546,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i: cmake_force
@@ -560,7 +560,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_printf/printf.c.i: cmake_force
@@ -573,7 +573,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.i: cmake_force
@@ -587,7 +587,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i: cmake_force
@@ -600,7 +600,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_divider/divider.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_divider/divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_divider/divider.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_divider/divider.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_divider/divider.S.i: cmake_force
@@ -613,7 +613,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_aeabi.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.i: cmake_force
@@ -627,7 +627,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i: cmake_force
@@ -641,7 +641,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_math.c.i: cmake_force
@@ -654,7 +654,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.i: cmake_force
@@ -667,7 +667,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.i: cmake_force
@@ -680,7 +680,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_aeabi.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.i: cmake_force
@@ -694,7 +694,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i: cmake_force
@@ -708,7 +708,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_math.c.i: cmake_force
@@ -721,7 +721,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.i: cmake_force
@@ -735,7 +735,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i: cmake_force
@@ -748,7 +748,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.i: cmake_force
@@ -761,7 +761,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/crt0.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building ASM object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
 	/usr/bin/arm-none-eabi-gcc $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj   -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/crt0.S
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.i: cmake_force
@@ -775,7 +775,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
 	/usr/bin/arm-none-eabi-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i: cmake_force
@@ -789,7 +789,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i: cmake_force
@@ -803,7 +803,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i: cmake_force
@@ -817,7 +817,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i: cmake_force
@@ -831,7 +831,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i: cmake_force
@@ -845,7 +845,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i: cmake_force
@@ -859,7 +859,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i: cmake_force
@@ -873,7 +873,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i: cmake_force
@@ -887,7 +887,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_flash/flash.c.i: cmake_force
@@ -901,7 +901,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i: cmake_force
@@ -915,7 +915,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i: cmake_force
@@ -929,7 +929,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd.c.i: cmake_force
@@ -943,7 +943,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i: cmake_force
@@ -957,7 +957,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i: cmake_force
@@ -971,7 +971,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i: cmake_force
@@ -985,7 +985,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i: cmake_force
@@ -999,7 +999,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i: cmake_force
@@ -1013,7 +1013,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i: cmake_force
@@ -1027,7 +1027,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i: cmake_force
@@ -1041,7 +1041,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i: cmake_force
@@ -1055,7 +1055,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i: cmake_force
@@ -1069,7 +1069,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i: cmake_force
@@ -1083,7 +1083,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i: cmake_force
@@ -1097,7 +1097,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i: cmake_force
@@ -1111,7 +1111,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i: cmake_force
@@ -1125,7 +1125,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/tusb.c.i: cmake_force
@@ -1139,7 +1139,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i: cmake_force
@@ -1153,7 +1153,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyus
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i: cmake_force
@@ -1167,7 +1167,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_multicore/multicore.c.i: cmake_force
@@ -1181,7 +1181,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/adc.c.i: cmake_force
@@ -1195,7 +1195,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_dma/dma.c.i: cmake_force
@@ -1209,7 +1209,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pio/pio.c.i: cmake_force
@@ -1223,7 +1223,7 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_co
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj: CMakeFiles/phobgcc_rp2040.dir/flags.make
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj: /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj: CMakeFiles/phobgcc_rp2040.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj -MF CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj.d -o CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj -c /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c
 
 CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/spi.c.i: cmake_force
@@ -1245,7 +1245,7 @@ phobgcc_rp2040_OBJECTS = \
 "CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj" \
 "CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj" \
 "CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj" \
-"CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj" \
+"CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj" \
 "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" \
 "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj" \
 "CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj" \
@@ -1333,7 +1333,7 @@ phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/src/joybus.cpp.obj
 phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj
 phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/src/navigateMenu.cpp.obj
 phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/src/storage.cpp.obj
-phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj
+phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj
 phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
 phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
@@ -1411,13 +1411,13 @@ phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob
 phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/build.make
 phobgcc_rp2040.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 phobgcc_rp2040.elf: CMakeFiles/phobgcc_rp2040.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Linking CXX executable phobgcc_rp2040.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Linking CXX executable phobgcc_rp2040.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/phobgcc_rp2040.dir/link.txt --verbose=$(VERBOSE)
-	/usr/bin/arm-none-eabi-objcopy -Oihex /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf phobgcc_rp2040.hex
-	/usr/bin/arm-none-eabi-objcopy -Obinary /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf phobgcc_rp2040.bin
-	/usr/bin/arm-none-eabi-objdump -h /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf > phobgcc_rp2040.dis
-	/usr/bin/arm-none-eabi-objdump -d /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf >> phobgcc_rp2040.dis
-	elf2uf2/elf2uf2 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf phobgcc_rp2040.uf2
+	/usr/bin/arm-none-eabi-objcopy -Oihex /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf phobgcc_rp2040.hex
+	/usr/bin/arm-none-eabi-objcopy -Obinary /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf phobgcc_rp2040.bin
+	/usr/bin/arm-none-eabi-objdump -h /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf > phobgcc_rp2040.dis
+	/usr/bin/arm-none-eabi-objdump -d /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf >> phobgcc_rp2040.dis
+	elf2uf2/elf2uf2 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/phobgcc_rp2040.elf phobgcc_rp2040.uf2
 
 # Rule to build all files generated by this target.
 CMakeFiles/phobgcc_rp2040.dir/build: phobgcc_rp2040.elf
@@ -1428,6 +1428,6 @@ CMakeFiles/phobgcc_rp2040.dir/clean:
 .PHONY : CMakeFiles/phobgcc_rp2040.dir/clean
 
 CMakeFiles/phobgcc_rp2040.dir/depend:
-	cd /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles/phobgcc_rp2040.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040 /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles/phobgcc_rp2040.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/phobgcc_rp2040.dir/depend
 

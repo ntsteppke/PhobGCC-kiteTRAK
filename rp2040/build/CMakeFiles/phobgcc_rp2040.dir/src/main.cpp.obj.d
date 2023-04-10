@@ -1,5 +1,5 @@
 CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj: \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/src/main.cpp \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/src/main.cpp \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_stdlib/include/pico/stdlib.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico/types.h \
@@ -15,9 +15,9 @@ CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj: \
  /usr/include/newlib/sys/features.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/version.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/version.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico/config.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/config_autogen.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/config_autogen.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/boards/include/boards/pico.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
@@ -61,7 +61,7 @@ CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj: \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/pwm.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pwm.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pwm.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/phobGCC.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/phobGCC.h \
  /usr/include/newlib/c++/10.3.1/algorithm \
  /usr/include/newlib/c++/10.3.1/utility \
  /usr/include/newlib/c++/10.3.1/bits/stl_relops.h \
@@ -107,26 +107,26 @@ CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj: \
  /usr/include/newlib/c++/10.3.1/limits \
  /usr/include/newlib/c++/10.3.1/cmath \
  /usr/include/newlib/c++/10.3.1/math.h /usr/include/newlib/math.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/../rp2040/include/Phob2_0.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/../rp2040/include/readHardware.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/../rp2040/include/Phob2_0.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/../rp2040/include/readHardware.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_adc/include/hardware/adc.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/adc.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/adc.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_spi/include/hardware/spi.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/spi.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/spi.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/../rp2040/include/storage/pages/storage.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/storage/page_indexes.hpp \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/variables.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/filter.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/stick.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/curveFitting.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/../extras/extras.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../common/../extras/kiteTRAK/kiteTRAK.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/comms/joybus.hpp \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/comms/gcReport.hpp \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/../rp2040/include/storage/pages/storage.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/storage/page_indexes.hpp \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/structsAndEnums.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/variables.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/filter.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/stick.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/curveFitting.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/../extras/extras.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../common/../extras/kiteTRAK/kiteTRAK.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/comms/joybus.hpp \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/comms/gcReport.hpp \
  /usr/include/newlib/c++/10.3.1/functional \
  /usr/include/newlib/c++/10.3.1/bits/stl_function.h \
  /usr/include/newlib/c++/10.3.1/backward/binders.h \
@@ -141,8 +141,8 @@ CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj: \
  /usr/include/newlib/c++/10.3.1/bits/functional_hash.h \
  /usr/include/newlib/c++/10.3.1/bits/refwrap.h \
  /usr/include/newlib/c++/10.3.1/bits/std_function.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/cvideo.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/cvideo_variables.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/cvideo.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/cvideo_variables.h \
  /usr/include/newlib/stdio.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdarg.h \
  /usr/include/newlib/sys/types.h /usr/include/newlib/sys/_stdint.h \
@@ -152,5 +152,5 @@ CMakeFiles/phobgcc_rp2040.dir/src/main.cpp.obj: \
  /usr/include/newlib/sys/timespec.h /usr/include/newlib/sys/_timespec.h \
  /usr/include/newlib/sys/_pthreadtypes.h /usr/include/newlib/sys/sched.h \
  /usr/include/newlib/machine/types.h /usr/include/newlib/sys/stdio.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../extras/kiteTRAK/kiteTRAK.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/include/readHardware.h
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../extras/kiteTRAK/kiteTRAK.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/include/readHardware.h

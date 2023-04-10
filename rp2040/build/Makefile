@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040
+CMAKE_SOURCE_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build
+CMAKE_BINARY_DIR = /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -246,29 +246,29 @@ cyw43_driver_picow_cyw43_bus_pio_spi_pio_h/fast:
 	$(MAKE) $(MAKESILENT) -f pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir/build.make pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir/build
 .PHONY : cyw43_driver_picow_cyw43_bus_pio_spi_pio_h/fast
 
-mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.obj: mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj
-.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.obj
+mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.obj: mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj
+.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.obj
 
 # target to build an object file
-mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/phobgcc_rp2040.dir/build.make CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj
-.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj
+mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/phobgcc_rp2040.dir/build.make CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj
+.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj
 
-mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.i: mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i
-.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.i
+mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.i: mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i
+.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.i
 
 # target to preprocess a source file
-mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/phobgcc_rp2040.dir/build.make CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i
-.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i
+mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/phobgcc_rp2040.dir/build.make CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i
+.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.i
 
-mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.s: mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s
-.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.s
+mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.s: mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s
+.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.s
 
 # target to generate assembly for a file
-mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/phobgcc_rp2040.dir/build.make CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s
-.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s
+mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/phobgcc_rp2040.dir/build.make CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s
+.PHONY : mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.s
 
 mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj: mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj
 .PHONY : mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj
@@ -2104,9 +2104,9 @@ help:
 	@echo "... phobgcc_rp2040_kiteTRAK_pio_h"
 	@echo "... bs2_default"
 	@echo "... phobgcc_rp2040"
-	@echo "... mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.obj"
-	@echo "... mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.i"
-	@echo "... mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.s"
+	@echo "... mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.obj"
+	@echo "... mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.i"
+	@echo "... mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.s"
 	@echo "... mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj"
 	@echo "... mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i"
 	@echo "... mnt/c/Users/ntste/Desktop/phob/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s"

@@ -1,4 +1,4 @@
-// Padded and checksummed version of: /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

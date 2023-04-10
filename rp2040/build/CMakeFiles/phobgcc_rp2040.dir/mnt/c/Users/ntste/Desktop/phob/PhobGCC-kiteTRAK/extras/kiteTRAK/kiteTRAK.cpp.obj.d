@@ -1,5 +1,5 @@
-CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj: \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp \
+CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp.obj: \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/kiteTRAK.cpp \
  /usr/include/newlib/c++/10.3.1/stdlib.h \
  /usr/include/newlib/c++/10.3.1/cstdlib \
  /usr/include/newlib/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp/bits/c++config.h \
@@ -32,9 +32,9 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico/assert.h \
  /usr/include/newlib/c++/10.3.1/cassert /usr/include/newlib/assert.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/version.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/version.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/common/pico_base/include/pico/config.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/config_autogen.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/generated/pico_base/pico/config_autogen.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/boards/include/boards/pico.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \
@@ -72,6 +72,6 @@ CMakeFiles/phobgcc_rp2040.dir/mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2_common/hardware_clocks/include/hardware/clocks.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/clocks.h \
  /mnt/c/Users/ntste/Desktop/phob/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/clocks.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/../extras/kiteTRAK/kiteTRAK.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/rp2040/build/kiteTRAK.pio.h \
- /mnt/c/Users/ntste/Desktop/phob/PhobGCC-SW-kiteTRAK/PhobGCC-kiteTRAK/extras/kiteTRAK/char_table.txt
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/../extras/kiteTRAK/kiteTRAK.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/rp2040/build/kiteTRAK.pio.h \
+ /mnt/c/Users/ntste/Desktop/phob/PhobGCC-kiteTRAK/extras/kiteTRAK/char_table.txt
